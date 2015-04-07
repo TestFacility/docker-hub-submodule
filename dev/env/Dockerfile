@@ -5,3 +5,4 @@ RUN touch /home/hello.txt \
     && touch /home/testing-tag.txt
 
 COPY Jenkins.png /home/test.png
+COPY solutions-demos/docs/images/managing-expectations.gif /home/managing-expectations.gif
