@@ -1,3 +1,0 @@
-[submodule "dev/env/submodule-dir"]
-	path = dev/env/submodule-dir
-	url = git@github.com:sbasyal/example.git
